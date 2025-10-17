@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "252157000221",
+    "project_id": "mbokaai-67f82",
+    "storage_bucket": "mbokaai-67f82.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252157000221:android:5e1b7f5bb1ca9ef2e324f4",
+        "android_client_info": {
+          "package_name": "com.example.mboka_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkG_wJf3MGTobaDT2d2uaZink28fGDLSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
