@@ -235,7 +235,7 @@ class _LoginPageState extends State<LoginPage> with SingleTickerProviderStateMix
                     ),
                     const SizedBox(height: 24),
                     SizedBox(
-                      height: 500, // Fixed height for tab content
+                      height: 400, // Fixed height for tab content
                       child: TabBarView(
                         controller: _tabController,
                         children: [
