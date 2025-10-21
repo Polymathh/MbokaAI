@@ -3,7 +3,7 @@ import 'dart:convert';
 import 'package:http/http.dart' as http;
 
 // 💡 REPLACE THIS WITH YOUR ACTUAL VERSEL DEPLOYMENT URL
-const String VERCEL_FUNCTION_URL = 'https://[your-project-name].vercel.app/api/generate-poster';
+const String VERCEL_FUNCTION_URL = 'https://mboka-ai-backend.vercel.app//api/generate-poster';
 
 class PosterRepository {
   // We no longer need FirebaseFunctions instance

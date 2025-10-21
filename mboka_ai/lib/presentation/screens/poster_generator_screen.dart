@@ -116,7 +116,7 @@ class _PosterGeneratorViewState extends State<PosterGeneratorView> {
                 GestureDetector(
                   onTap: isGenerating ? null : _pickImage,
                   child: Container(
-                    height: 150,
+                    height: 350,
                     decoration: BoxDecoration(
                       color: Colors.grey[200],
                       borderRadius: BorderRadius.circular(12),
